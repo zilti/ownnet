@@ -1,0 +1,6 @@
+[{:groups [
+           {:name "Maindir"
+            :syncedDevices ["MyLaptop1" "Desktop"]
+            :paths}]
+  :paths [{:type :directory
+           :paths {"MyLaptop1" }}]}]
